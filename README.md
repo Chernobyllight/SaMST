@@ -49,7 +49,7 @@ We provide pretrained models trained on 10 styles in ***'./checkpoints/'***. The
   python test.py
   ```
 
-The stylized results are listed in  ***./outputs/***.
+The stylized results are listed in  ***'./outputs/'***.
 
 ## :bullettrain_side:Train
 
