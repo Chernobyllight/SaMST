@@ -37,7 +37,7 @@ We provide pretrained models trained on 10 styles in ***'./checkpoints/'***. The
   cd ./test_model/test/
   ```
 
-- Specify the number of styles to train the whole model. 
+- Specify the number of styles to train the whole model in config file ***'./test_model/test/test.yml'***. 
 
   ```
   style_num: 10
