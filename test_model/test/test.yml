@@ -1,0 +1,10 @@
+content_image_dir: '../../content'
+content_scale: ~
+output_image_dir: '../../outputs/'
+
+model: '../../checkpoint/epoch_20.model'
+
+style_num: 10
+
+cuda: 1
+

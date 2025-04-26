@@ -1,0 +1,27 @@
+
+epochs: 100
+batch_size: 8
+dataset: '../../train_dataset/content/'
+style_image: '../../train_dataset/style/'
+
+save_model_dir: '../../checkpoint/'
+image_size: 256
+style_size: 512
+cuda: 1
+seed: 7
+content_weight: 1e5
+style_weight: 1e10
+ae_weight: 1e3
+
+lr: 0.001
+weight_decay: 0.5
+step_size: 25
+save_interval: 10
+
+log_interval: 50
+checkpoint_interval: 100
+checkpoint_model_dir: ~
+
+
+begin_checkpoint: ~
+begin_epoch: ~
