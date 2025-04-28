@@ -15,7 +15,7 @@ Due to the high diversity of image styles, the scalability to various styles pla
 
 ![](Figs/teaserfig.png)
 
-*Visual examples*
+*Visual examples.*
 
 ## :wrench:Installation
 
