@@ -75,7 +75,7 @@ train_dataset
 ### :running:Training
 
 
-We provide two training pipelines. If you have a large number of styles, please get into ***train1***. In contrast, if you just train the model on several styles, you can get into ***train2*** to strike a fast convergence. There is no difference on the two training pipelines' option setting. Here is a example of pipeline ***train1***.
+We provide two training pipelines. If you have a large number of styles, please get into ***train1***. In contrast, if you just train the model on several styles, you can get into ***train2*** to strike a fast convergence. There is no difference between the two training pipelines' option setting. Here is a example of pipeline ***train1***.
 
 - Get into training codes folder ***'./train_model/train1/'***:
 
