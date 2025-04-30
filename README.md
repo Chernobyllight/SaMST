@@ -55,7 +55,7 @@ The stylized results are listed in  ***'./outputs/'***.
 
 ### :bank:Dataset Preparation
 
-We select styles from [wikiart](https://www.kaggle.com/competitions/painter-by-numbers/data) and [pixabay](https://pixabay.com/), and use  [MS_COCO](https://cocodataset.org/#download) as our content dataset. Furthermore, the training dataset folder is ***'./train_dataset'***, and folder structure should be like:
+We select styles from [wikiart](https://www.kaggle.com/competitions/painter-by-numbers/data) and [pixabay](https://pixabay.com/), and use  [MS_COCO](https://cocodataset.org/#download) as our content dataset. Furthermore, the training dataset folder is ***'./train_dataset/'***, and folder structure should be like:
 
 ```
 train_dataset
