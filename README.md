@@ -1,6 +1,6 @@
 # [ACCV 2024] Pluggable Style Representation Learning for Multi-Style Transfer
 
-Pytorch implementation of our ACCV 2024 paper ***Pluggable Style Representation Learning for Multi-Style Transfer*** [[paper](https://openaccess.thecvf.com/content/ACCV2024/papers/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.pdf)] [[supple](https://openaccess.thecvf.com/content/ACCV2024/supplemental/Liu_Pluggable_Style_Representation_ACCV_2024_supplemental.pdf)].
+Pytorch implementation of our ACCV 2024 paper ***Pluggable Style Representation Learning for Multi-Style Transfer*** [[paper](https://openaccess.thecvf.com/content/ACCV2024/papers/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.pdf)][[supple](https://openaccess.thecvf.com/content/ACCV2024/supplemental/Liu_Pluggable_Style_Representation_ACCV_2024_supplemental.pdf)].
 
 
 ## :newspaper: $\mathrm{I}$ - Introduction
