@@ -3,7 +3,7 @@
 Pytorch implementation of our ACCV 2024 paper ***Pluggable Style Representation Learning for Multi-Style Transfer*** [[paper](https://openaccess.thecvf.com/content/ACCV2024/papers/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.pdf)].
 
 
-## :newspaper:Introduction
+## :newspaper: $\mathrm{I}$ - Introduction
 
 **TL;DR:** We introduce a novel style representation learning scheme for multi-style transfer, which achieves superior inference speed and high generation quality.
 
@@ -17,7 +17,7 @@ Due to the high diversity of image styles, the scalability to various styles pla
 
 *Visual examples.*
 
-## :wrench:Installation
+## :wrench: $\mathrm{II}$ - Installation
 
 - Install python 3.8.0, torch 2.0.0, CUDA 11.7 and other essential packages (Note that using other versions of packages may affect performance).
 - Clone this repo
@@ -27,7 +27,7 @@ git clone https://github.com/Chernobyllight/SaMST
 cd SaMST
 ```
 
-## :red_car:Test
+## :red_car: $\mathrm{III}$ - Test
 
 We provide pretrained models trained on 10 styles in ***'./checkpoints/'***. The test content images are provided in ***'./content'***.
 
@@ -51,7 +51,7 @@ We provide pretrained models trained on 10 styles in ***'./checkpoints/'***. The
 
 The stylized results are listed in  ***'./outputs/'***.
 
-## :bullettrain_side:Train
+## :bullettrain_side: $\mathrm{IV}$ - Train
 
 ### :bank:Dataset Preparation
 
@@ -90,7 +90,7 @@ We provide two training pipelines. If you have a large number of styles, please 
   ```
 
 
-## :star:Citation
+## :star: $\mathrm{V}$ - Citation
 
 If you find our work useful in your research, please cite our [paper](https://openaccess.thecvf.com/content/ACCV2024/papers/Liu_Pluggable_Style_Representation_Learning_for_Multi-Style_Transfer_ACCV_2024_paper.pdf)~ Thank you!
 
@@ -104,10 +104,10 @@ If you find our work useful in your research, please cite our [paper](https://op
 }
 ```
 
-## :yum:Acknowledgement
+## :yum: $\mathrm{VI}$ - Acknowledgement
 
 This repository is heavily built upon the amazing works [Stylebank](https://github.com/jxcodetw/stylebank) and [CIN](https://github.com/kewellcjj/pytorch-multiple-style-transfer). Thanks for their great effort to community.
 
-## :e-mail:Contact
+## :e-mail: $\mathrm{VII}$ - Contact
 
 [Hongda Liu](mailto:2946428816@qq.com)
